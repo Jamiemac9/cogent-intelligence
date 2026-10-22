@@ -1,0 +1,42 @@
+# Cogent Intelligence
+
+> AI agents and a business second brain for UK service businesses. Based in Solihull, West Midlands. Free 30-minute discovery call; standard setup from £1,997, custom AI agent from £4,997, monthly plans from £297 per month. First agent live in 14 days, with human approval on anything customer-facing or involving money. Unlike a chat app such as ChatGPT or Claude, it remembers the whole business, works inside the client's own tools and starts jobs on its own. Owners can delegate jobs by WhatsApp, Slack, Telegram, email or voice note.
+
+## Key pages
+- [Home](https://cogentintelligence.co.uk/): what Cogent does, pricing and FAQs
+- [Industries](https://cogentintelligence.co.uk/industries/): playbooks by sector
+- [Birmingham and West Midlands](https://cogentintelligence.co.uk/ai-automation-birmingham)
+- [Book a call](https://cal.com/jamiemac/30min)
+
+## Industry playbooks
+- [Trades & home services](https://cogentintelligence.co.uk/industries/trades): AI agents for UK plumbers, electricians, builders and fitters. Answer enquiries 24/7, draft quotes from your price list and chase invoices, with your approval. Live in 14 days.
+- [Estate & letting agents](https://cogentintelligence.co.uk/industries/estate-agents): AI agents for UK estate and letting agents. Respond to Rightmove and Zoopla leads in minutes, book viewings, chase vendors and prepare tenancy paperwork, with approvals built in.
+- [Property & block management](https://cogentintelligence.co.uk/industries/property-management): AI agents for UK landlords, HMO operators and block managers. Triage maintenance requests, track gas, EICR and fire safety certificates, and chase rent, with approvals on.
+- [Supported housing & care providers](https://cogentintelligence.co.uk/industries/supported-housing): AI agents for UK supported housing, exempt accommodation and care providers. Keep support evidence audit-ready, chase housing benefit claims and organise rotas, with approvals on every decision.
+- [Accountants & bookkeepers](https://cogentintelligence.co.uk/industries/accountants): AI agents for UK accountancy practices and bookkeepers. Chase client records, onboard new clients, prepare AML checks and sort the inbox before deadlines hit. Approvals on everything client-facing.
+- [Solicitors & conveyancers](https://cogentintelligence.co.uk/industries/solicitors): AI agents for UK law firms and conveyancers. Respond to new enquiries, run client onboarding and ID checks, and send conveyancing update chasers, with SRA-friendly approvals on everything.
+- [Architects & design practices](https://cogentintelligence.co.uk/industries/architects): AI agents for UK architects and design practices. Qualify enquiries, draft fee proposals, track planning applications and keep clients and consultants updated, with approvals on.
+- [Clinics: dental, physio & aesthetics](https://cogentintelligence.co.uk/industries/clinics): AI agents for UK dental, physio and aesthetics clinics. Answer enquiries, fill cancellations, send reminders and recall patients, with clinical decisions always left to clinicians.
+- [Gyms, studios & personal trainers](https://cogentintelligence.co.uk/industries/fitness): AI agents for UK gyms, studios and personal trainers. Follow up leads in minutes, book trials, check in on members who've gone quiet and handle membership admin.
+- [Recruitment agencies](https://cogentintelligence.co.uk/industries/recruitment): AI agents for UK recruitment agencies. Screen applicants, book interviews, chase right-to-work and compliance documents, and keep your CRM up to date.
+- [Cleaning & facilities companies](https://cogentintelligence.co.uk/industries/cleaning): AI agents for UK cleaning and facilities companies. Answer quote requests, cover staff absences, send job confirmations and chase invoices, with approvals on.
+- [Admin & back-office teams](https://cogentintelligence.co.uk/industries/admin): AI agents that take repetitive office admin off your team: inbox sorting, data entry between systems, document chasing, reports and diary management. UK businesses, approvals built in.
+- [Surveyors & EPC assessors](https://cogentintelligence.co.uk/industries/surveyors): AI agents for UK surveyors and EPC assessors. Answer booking requests, arrange access with agents and tenants, chase payment and prepare report admin.
+- [Fire, H&S & compliance consultants](https://cogentintelligence.co.uk/industries/compliance-consultants): AI agents for UK fire risk assessors and health and safety consultants. Track renewals, book reassessments, chase remedial actions and prepare report admin.
+- [Heat pump, solar & renewables installers](https://cogentintelligence.co.uk/industries/renewables): AI agents for UK heat pump, solar and renewables installers. Qualify leads, explain Boiler Upgrade Scheme eligibility, book surveys and chase MCS paperwork.
+- [Mortgage & insurance brokers](https://cogentintelligence.co.uk/industries/brokers): AI agents for UK mortgage and insurance brokers. Chase fact-find documents, track product expiries and renewals, and update clients, with FCA-aware approvals.
+- [Training providers & tutors](https://cogentintelligence.co.uk/industries/training-providers): AI agents for UK training providers, tutors and driving schools. Answer course enquiries, manage bookings and waiting lists, send joining instructions and track certificates.
+- [Wedding venues & event businesses](https://cogentintelligence.co.uk/industries/venues): AI agents for UK wedding venues and event businesses. Reply to date enquiries instantly, book show-rounds, send brochures and keep couples' planning details in one memory.
+- [Garages, MOT centres & vehicle services](https://cogentintelligence.co.uk/industries/garages): AI agents for UK garages and MOT centres. Send MOT and service reminders, answer booking requests, update customers on repairs and get approval for extra work.
+- [Marketing & creative agencies](https://cogentintelligence.co.uk/industries/agencies): AI agents for UK marketing, web and creative agencies. Automate client reporting, qualify briefs, chase approvals and assets, and track scope creep.
+
+## Insights
+- [AI agents vs ChatGPT for small business](https://cogentintelligence.co.uk/insights/ai-agents-vs-chatgpt): how a business second brain differs from a chat app on memory, tasks and autonomy
+- [Your business needs a second brain](https://cogentintelligence.co.uk/insights/second-brain)
+- [Find your peak](https://cogentintelligence.co.uk/insights/find-your-peak)
+- [Approvals first](https://cogentintelligence.co.uk/insights/approvals-first)
+
+## Legal
+- [Privacy](https://cogentintelligence.co.uk/privacy)
+- [Terms](https://cogentintelligence.co.uk/terms)
+- [Cookies](https://cogentintelligence.co.uk/cookies)

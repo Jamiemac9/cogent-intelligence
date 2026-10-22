@@ -1,0 +1,37 @@
+
+/* ---------- Brand logo (added) ---------- */
+.brand img.mark{width:auto;height:34px;filter:drop-shadow(0 0 14px rgba(255,122,47,.25))}
+.loader-mark img.mark{width:auto;height:34px}
+.funnel-top .brand img.mark{height:30px}
+.foot-logo{display:block;line-height:0}
+.foot-logo img{width:clamp(150px,16vw,200px);height:auto}
+.foot-grid{grid-template-columns:minmax(0,1.2fr) repeat(3,minmax(0,1fr))}
+@media (max-width:899px){.foot-grid{grid-template-columns:1fr 1fr}}
+.menu.is-open nav a:nth-child(6){transition-delay:.25s}
+@media (max-height:700px){.menu nav a{font-size:clamp(1.6rem,7vw,2.4rem)}}
+
+/* ---------- Industry pages (added) ---------- */
+.agent-x .example-h b{font-family:var(--f-display);font-size:13px;letter-spacing:.04em}
+.xspec{display:grid;gap:10px;margin:0}
+.xspec div{display:grid;grid-template-columns:96px minmax(0,1fr);gap:12px}
+.xspec dt{font:500 10.5px/1.6 var(--f-mono);letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
+.xspec dd{margin:0;color:var(--bone-2)}
+.xspec div:last-child dt{color:var(--ember-2)}
+.qa-x{display:grid;gap:8px}
+.qa-x+.qa-x{margin-top:16px;padding-top:16px;border-top:1px solid var(--rule)}
+.qa-x p{margin:0}
+.qx,.ax{display:grid;grid-template-columns:72px minmax(0,1fr);gap:12px}
+.qx span,.ax span{font:500 10.5px/1.9 var(--f-mono);letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
+.qx{color:var(--bone);font-weight:600}
+.ax span{color:var(--violet)}
+.prose section#s8 h3{margin-top:1.4em}
+@media (max-width:520px){.xspec div,.qx,.ax{grid-template-columns:1fr;gap:2px}}
+.dgrid--tri{grid-template-columns:repeat(3,minmax(0,1fr))}
+.dgrid--tri>.fp:first-child{grid-row:auto}
+.dgrid--tri>.fp .dcard-cover,.dgrid--tri>.fp:first-child .dcard-cover{aspect-ratio:21/9;flex:none;min-height:0;margin-bottom:0}
+.dgrid--tri>.fp:first-child .dcard-body{position:relative;left:auto;right:auto;bottom:auto;padding:20px 22px 24px;background:none;border-radius:0;transform:translateZ(22px)}
+.dgrid--tri>.fp:first-child .dcard h3{font-size:clamp(1.25rem,1.9vw,1.55rem)}
+@media (max-width:1023px){.dgrid--tri{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:640px){.dgrid--tri{grid-template-columns:1fr}}
+.hub-list--niche{padding-bottom:40px}
+.hub-sub{margin:-8px 0 28px}

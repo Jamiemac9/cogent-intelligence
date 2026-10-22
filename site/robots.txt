@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cogentintelligence.co.uk/sitemap.xml
