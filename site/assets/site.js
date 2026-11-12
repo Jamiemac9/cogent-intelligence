@@ -47,7 +47,7 @@
     el.className = 'cookie-banner';
     el.setAttribute('role', 'region');
     el.setAttribute('aria-label', 'Cookie choices');
-    el.innerHTML = '<p><b>Your choice on cookies.</b> We\'d like to use Google Analytics cookies to see which pages help. They stay off unless you accept. <a href="' + prefix() + 'cookies.html">Cookie policy</a></p>' +
+    el.innerHTML = '<p><b>Your choice on cookies.</b> We\'d like to use Google Analytics cookies to see which pages help. They stay off unless you accept. <a href="' + prefix() + 'cookies">Cookie policy</a></p>' +
       '<div class="cookie-actions"><button type="button" class="btn btn-ghost" data-c="reject">Reject</button><button type="button" class="btn btn-ghost btn-accept" data-c="accept">Accept analytics</button></div>';
     document.body.appendChild(el);
     requestAnimationFrame(() => requestAnimationFrame(() => el.classList.add('is-on')));
